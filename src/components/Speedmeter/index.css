@@ -1,0 +1,65 @@
+.speedometer-container{
+    background-color: #07080c;
+    background-size:cover;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:10px;
+
+} 
+
+.main-heading{
+    color:white;
+    font-size:30px;
+    font-family: "Roboto";
+
+
+}
+.image{
+    width:60vw;
+    height: 50vh;
+
+}
+.sub-heading{
+     color:white;
+    font-size:25px;
+    font-family: "Roboto";
+
+
+} 
+.sub-description{
+    color: #cbd5e1;
+    font-size:20px;
+    font-family: "Roboto";
+} 
+.button-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius:5px; 
+    margin:20px;
+
+
+} 
+.accelerate-button{
+    background-color: rgb(56, 56, 193);
+    color: white;
+    font-family: "Roboto";
+    font-size: 10px;
+    padding:6px;
+   margin:10px;
+    border-radius:5px; 
+}
+.apply-button{
+    background-color: transparent;
+    color: #7c7d7f;
+    font-family: "Roboto";
+    border: 2px solid #7c7d7f;
+      margin:10px;
+    font-size: 10px;
+     border-radius:5px; 
+    padding:6px;
+    
+}
